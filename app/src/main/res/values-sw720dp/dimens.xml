@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //font dimens
+    <dimen name="font_8sp">12sp</dimen>
+    <dimen name="font_10sp">14sp</dimen>
+    <dimen name="font_12sp">16sp</dimen>
+    <dimen name="font_14sp">20sp</dimen>
+    <dimen name="font_16sp">22sp</dimen>
+    <dimen name="font_20sp">26sp</dimen>
+    <dimen name="font_22sp">28sp</dimen>
+    <dimen name="font_24sp">30sp</dimen>
+    <dimen name="font_26sp">32sp</dimen>
+
+    //margin dimens
+    <dimen name="margin_4dp">10dp</dimen>
+    <dimen name="margin_8dp">14dp</dimen>
+    <dimen name="margin_12dp">18dp</dimen>
+    <dimen name="margin_16dp">22dp</dimen>
+    <dimen name="margin_20dp">26dp</dimen>
+    <dimen name="margin_24dp">304dp</dimen>
+    <dimen name="margin_28dp">34dp</dimen>
+    <dimen name="margin_32dp">38dp</dimen>
+    <dimen name="margin_36dp">42dp</dimen>
+    <dimen name="margin_40dp">46dp</dimen>
+
+    //height dimens
+    <dimen name="sample">60dp</dimen>
+    <dimen name="height_24dp">32dp</dimen>
+    <dimen name="height_32dp">40dp</dimen>
+    <dimen name="height_40dp">48dp</dimen>
+    <dimen name="height_48dp">56dp</dimen>
+    <dimen name="height_60dp">68dp</dimen>
+    <dimen name="height_100dp">124dp</dimen>
+    <dimen name="height_120dp">132dp</dimen>
+
+
+</resources>
